@@ -1,19 +1,19 @@
 {
-    "name": "gitbook-plugin-baidu",
-    "version": "0.1.0",
+    "name": "gitbook-plugin-baidu_gio",
+    "version": "0.1",
     "description": "Baidu Analytics tracking for your gitbook.",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/poppinlp/gitbook-plugin-baidu"
+        "url": "https://github.com/wangjia371/gitbook-plugin-baidu_gio"
     },
     "bugs": {
-        "url": "https://github.com/poppinlp/gitbook-plugin-baidu/issues"
+        "url": "https://github.com/wangjia371/gitbook-plugin-baidu_gio/issues"
     },
     "author": {
-        "name": "PoppinL",
-        "email": "poppinlp@gmail.com",
-        "url": "http://poppinlp.github.io"
+        "name": "wangjia371",
+        "email": "windwing371@gmail.com",
+        "url": "http://wangjia371.github.io"
     },
     "readmeFilename": "README.md",
     "engines": {
@@ -28,7 +28,7 @@
             }
         }
     },
-    "homepage": "https://github.com/poppinlp/gitbook-plugin-baidu",
+    "homepage": "https://github.com/wangjia371/gitbook-plugin-baidu_gio",
     "license": "MIT",
     "keywords": [
         "gitbook",
