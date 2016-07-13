@@ -37,7 +37,7 @@ Then add your token to `book.json` config:
 {
     "plugin": ["baidu_gio"],
     "pluginsConfig": {
-        "baidu": {
+        "baidu_gio": {
             "token": "YOUR TOKEN"
         }
     }
