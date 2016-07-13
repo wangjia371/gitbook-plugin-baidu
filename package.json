@@ -10,11 +10,6 @@
     "bugs": {
         "url": "https://github.com/wangjia371/gitbook-plugin-baidu_gio/issues"
     },
-    "author": {
-        "name": "wangjia371",
-        "email": "windwing371@gmail.com",
-        "url": "http://wangjia371.github.io"
-    },
     "readmeFilename": "README.md",
     "engines": {
         "gitbook": ">=0.4.6"
